@@ -1,0 +1,5 @@
+# ~integers~, ~floats~, ~booleans~, ~strings~
+
+int() # infinite negative(-) to infinite positive(+) numbers 
+
+float() # any number that contains a decimal point; 
