@@ -1,3 +1,5 @@
+#datatypes
+
 # integers, floats, booleans, strings
 
 int() # infinite negative(-) to infinite positive(+) numbers
