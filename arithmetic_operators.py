@@ -1,3 +1,5 @@
+# arithmetic operators
+
 # addition(+), subtraction(-), multiplication(*), division(/), floor division(//), modulo(%), exponent(**)
 
 # addition(+)
